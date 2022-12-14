@@ -9,7 +9,7 @@
   
  
  
- To use this application the following configuration should be followed---
+ To use this application the following steps should be followed---
   
 
 1- Create virtual environment by command:
